@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25621dd4-9800-46af-ad35-7823d80fc1cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fail_test.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test1.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/WordConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/WordConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/paperCheck/FormatCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/paperCheck/FormatCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rTkDwK8JRagLAZXUmv4Ac9gcSJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Check">
+    <configuration name="Check (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Check" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Check" />
+      <module name="PaperCheck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Check" />
+        <item itemvalue="Application.Check (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25621dd4-9800-46af-ad35-7823d80fc1cf" name="Default Changelist" comment="" />
+      <created>1619007350380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619007350380</updated>
+      <workItem from="1619007357591" duration="86000" />
+      <workItem from="1619007507743" duration="479000" />
+      <workItem from="1619007994185" duration="849000" />
+      <workItem from="1619008856592" duration="1504000" />
+      <workItem from="1619010404654" duration="9289000" />
+      <workItem from="1619226299180" duration="3099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="69" key="#Check_(1)" timestamp="1619008047039">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="370" y="69" key="#Check_(1)/0.0.1440.900@0.0.1440.900" timestamp="1619008047039" />
+    <state x="208" y="31" key="#Project_Structure" timestamp="1619008030059">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1619008030059" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1619229158559">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1619229158559" />
+    <state x="99" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1619010756853">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="99" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1619010756853" />
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom" timestamp="1619229498679">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619022448949" />
+    <state width="1398" height="343" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1619055460176" />
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1619229498679" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center" timestamp="1619229498676">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619022448948" />
+    <state width="1398" height="343" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1619055460175" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1619229498676" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left" timestamp="1619229498674">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619022448948" />
+    <state width="1398" height="343" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1619055460174" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1619229498674" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right" timestamp="1619229498678">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619022448949" />
+    <state width="1398" height="343" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1619055460175" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1619229498678" />
+    <state width="1398" height="300" key="GridCell.Tab.1.bottom" timestamp="1619229495853">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="343" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619020367970" />
+    <state width="1398" height="343" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1619055460178" />
+    <state width="1398" height="300" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1619229495853" />
+    <state width="1398" height="300" key="GridCell.Tab.1.center" timestamp="1619229495851">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="343" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1619020367969" />
+    <state width="1398" height="343" key="GridCell.Tab.1.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1619055460177" />
+    <state width="1398" height="300" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1619229495851" />
+    <state width="1398" height="300" key="GridCell.Tab.1.left" timestamp="1619229495850">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="343" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1619020367969" />
+    <state width="1398" height="343" key="GridCell.Tab.1.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1619055460176" />
+    <state width="1398" height="300" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1619229495850" />
+    <state width="1398" height="300" key="GridCell.Tab.1.right" timestamp="1619229495852">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="343" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1619020367969" />
+    <state width="1398" height="343" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1619055460177" />
+    <state width="1398" height="300" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1619229495852" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1619010116024">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1619010116024" />
+    <state x="95" y="34" key="SettingsEditor" timestamp="1619009711904">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="95" y="34" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1619009711904" />
+    <state x="100" y="100" width="1240" height="700" key="ShowDiffWithBranchDialog" timestamp="1619010756854">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="ShowDiffWithBranchDialog/0.23.1440.877@0.23.1440.877" timestamp="1619010756854" />
+    <state x="88" y="113" key="new project wizard" timestamp="1619009821218">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="113" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1619009821218" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1619011738965">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1619011738965" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/paperCheck/FormatCheck.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/paperCheck/FormatCheck.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="org.apache.xmlbeans.impl.store.Xobj$ElementXobj" fieldName="_user" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
